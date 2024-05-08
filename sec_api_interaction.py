@@ -25,6 +25,11 @@ import websockets
 import json
 import sec_api
 
+def grab_form4s():
+    """
+    """
+    pass
+
 
 
 
