@@ -105,5 +105,7 @@ def main():
         cursor.close()
         connection.close()
 
+        print("Operations complete and connections closed.")
+
     
 main()

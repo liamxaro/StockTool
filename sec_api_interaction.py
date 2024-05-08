@@ -12,6 +12,11 @@
     "from": "0",
     "size": "10",
     "sort": [{ "filedAt": { "order": "desc" } }]
+
+    'https://api.sec-api.io/insider-trading'
+
+    Query API:https://api.sec-api.io
+    Stream API: NEWwss://stream.sec-api.io
 }
 """
 #PACKAGES
